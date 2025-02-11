@@ -9,7 +9,7 @@ To build the source code, you will need to modify blaustahl.h to uncomment FRAM\
 ```
 $ mkdir build
 $ cd build
-$ cmake -DPICO_DEFAULT_BOOT_STAGE2_FILE=/your-pico-sdk-directory/pico-sdk/src/rp2_common/boot_stage2/boot2_generic_03h.S ..
+$ cmake -DPICO_DEFAULT_BOOT_STAGE2_FILE=/your-pico-sdk-directory/pico-sdk/src/rp2040/boot_stage2/boot2_generic_03h.S ..
 $ make
 ```
 
