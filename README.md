@@ -4,7 +4,7 @@ Kaltstahl is a higher capacity version of [Blaustahl](https://github.com/machdyn
 
 Please see the [Blaustahl](https://github.com/machdyne/blaustahl) repo for instructions and firmware source code.
 
-To build the source code, you will need to modify blaustahl.h to uncomment FRAM\_BIG, set FRAM\_PAGES to 128 and then use the following commands:
+To build the firmware from the source code, you will need to modify blaustahl.h and change the FRAM\_SIZE value to 262144 and then use the following commands:
 
 ```
 $ mkdir build
