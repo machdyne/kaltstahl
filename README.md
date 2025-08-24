@@ -6,7 +6,7 @@ Kaltstahl is a higher capacity version of [Blaustahl](https://github.com/machdyn
 
 Kaltstahl can use either the Blaustahl (USB-CDC) or [Ebenstahl](https://github.com/machdyne/ebenstahl) (USB-MSC) firmware.
 
-The default firmware images are [available here](tree/main/firmware).
+The default firmware images are [available here](firmware).
 
 Please see the [Blaustahl](https://github.com/machdyne/blaustahl) repo for instructions and firmware source code for the USB-CDC firmware.
 
